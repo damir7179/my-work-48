@@ -1,0 +1,31 @@
+.a{
+    border: solid ;
+    background-color: antiquewhite;
+    height: 60px;
+    width: 400px;
+}
+.w{
+    border: solid;
+    background-color: blueviolet;
+    height: 110px;
+    width: 400px;
+}
+.e{
+    border: solid;
+    background-color: yellowgreen;
+    height: 300px;  
+    width: 400px;
+
+}
+.box{
+    border: solid;
+    background-color: blueviolet;
+    height: 50px;
+    width: 400px;
+}
+.big{
+    border: solid;
+    background-color: antiquewhite;
+    height: 50px;
+    width: 400px;
+}
